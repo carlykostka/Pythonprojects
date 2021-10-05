@@ -63,6 +63,6 @@ mplcursors.cursor(hover=True)
 plt.show()
 
 
-
+print(hi) 
 
 
